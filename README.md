@@ -179,3 +179,4 @@ class MyApp extends StatelessWidget {
 }
 ```
 
+![code-snapshot](https://github.com/appworkspaceRM/list-view/assets/135511281/12ad40a7-3888-4e03-9fbb-09020f7dd550)
